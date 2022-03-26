@@ -2,6 +2,7 @@
 This is the song-to-video dataset, which includes song and corresponding song lyrics files, mv files and labels with training set and test set. About the whole mv files, song and song lirics please see this network disk link: https://pan.baidu.com/s/1pS7fkAjnSeju1GR46veqzQ  提取码：t0fb
 
 ## Illustration
-<div align=left><img src="https://user-images.githubusercontent.com/102368468/160239206-18d7565a-9d27-48c6-be32-158f571ae716.png" width="600" height="210" /><img src="https://user-images.githubusercontent.com/102368468/160239473-9e5e39b1-4878-4f38-8978-785a0400f055.png" width="400"/></div>
+![greedy3](https://user-images.githubusercontent.com/102368468/160240190-c9a6e5a6-2bcd-4306-aa6f-6d18269b6284.png)
+
 
 ## Demo Video
