@@ -4,5 +4,3 @@ This is the song-to-video dataset, which includes song and corresponding song ly
 ## Illustration
 
 ## Demo Video
-
-
