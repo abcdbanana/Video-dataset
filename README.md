@@ -3,4 +3,5 @@ This is the song-to-video dataset, which includes song and corresponding song ly
 
 ## Illustration
 ![framework](https://user-images.githubusercontent.com/102368468/160238610-c71a3f3c-442f-4d54-82e0-242af9e0f862.png)
+<div align=center><img src="https://user-images.githubusercontent.com/102368468/160238610-c71a3f3c-442f-4d54-82e0-242af9e0f862.png" width="450" height="300" /></div>
 ## Demo Video
