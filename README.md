@@ -1,5 +1,5 @@
 # Song-to-Video Dataset
-Song-to-video dataset is for song-to-video translation(S2VT) work, which includes song and song lyric files, footage repository files, videos etc.
+Song-to-video dataset is for song-to-video translation(S2VT) work, which includes song and song lyric files, footage repository files, videos, etc.
 
 ## Datasets
 Download our footage repository and video dataset from the link：https://pan.baidu.com/s/1pS7fkAjnSeju1GR46veqzQ  extraction code：t0fb.
